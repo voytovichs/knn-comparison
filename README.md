@@ -1,4 +1,4 @@
-#Vectors Index
+# Vectors Index
 
 A service that permits quick search for k nearest neighbors for vectors.
 
