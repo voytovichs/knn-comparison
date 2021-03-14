@@ -1,0 +1,8 @@
+Flask==1.0.3
+Flask-Injector==0.12.0
+numpy==1.17.2
+injector==0.14.1
+Pympler==0.7
+readerwriterlock==1.0.4
+coverage==4.5.4
+waitress

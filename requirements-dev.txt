@@ -1,0 +1,10 @@
+annoy==1.15.2
+Flask==1.0.3
+Flask-Injector==0.12.0
+numpy==1.16.4
+injector==0.14.1
+Pympler==0.7
+scikit-learn==0.21.2
+readerwriterlock==1.0.4
+
+
