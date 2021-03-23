@@ -1,6 +1,6 @@
 # Vectors Index
 
-A service that permits quick search for k nearest neighbors for vectors.
+A service for indexing vectors and searching for k nearest neighbors of a given vector.
 
 ## `benchmarks`
 ### Description
